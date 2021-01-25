@@ -1,6 +1,6 @@
 # First Steps 
 
-Welcome to First Steps! In this 10-session preparatory program, you will take your first steps in the world of coding by learning the basics of HTML, CSS, and JavaScript. The program is packed with live lectures, lecture material and code, exercises, quizzes, and more. By the end of this program, you will be able to build a nice personal web portfolio using HTML, CSS and JavaScript. These are the first steps for frontend web development.
+Welcome to First Steps! In this 10-session preparatory program, you will take your first steps in the world of coding by learning the basics of HTML, CSS, and JavaScript. The program is packed with live lectures, lecture material and code, exercises, quizzes, and more. By the end of this program, you will be able to build a nice personal web portfolio using HTML, CSS and JavaScript.  
 
 In this file, you will learn about: 
 
@@ -12,13 +12,13 @@ In this file, you will learn about:
 
 ### Course Intro
 
-This First Steps program is designed to prepare you for [ITC's fullstack web development program](https://www.itc.tech) where you can enter Israel's hi-tech industry. In that program, you will level up your skills by diving into more advanced frontend topics and learning about backedn web development, like building servers, managing databases, and deploying your fullstack web applications live on the web. Those who are planning to apply to [ITC's fullstack web development program](https://www.itc.tech) will showcase the portfolio you build from this course in a short technical interview as part of the fullstack admissions process. 
+This First Steps program is designed to prepare you for [ITC's fullstack web development program](https://www.itc.tech) where you can enter Israel's hi-tech industry. In this program, you prepare by learning the basics of frontend development. In the fullstack program, you will level up your skills by diving into more advanced frontend topics and learning about backend web development, like building servers, managing databases, and deploying your fullstack web applications live on the web. Those who are planning to apply to [ITC's fullstack web development program](https://www.itc.tech) will showcase the portfolio you build from this course in a short technical interview as part of the fullstack admissions process. 
 
 [ITC's fullstack web development program](https://www.itc.tech) is three months of classroom work following by a two-month internship at a hi-tech company in Israel. To help prepare you for industry, in the fullstack program you also will learn how to use Git and Github, develop your soft skills, prepare for technical and non-technical interviews, compete in a hackathon, and more! 
 
 ### Course Materials
 
-For this First Steps program, you will use [Google Classroom](https://classroom.google.com/u/1/c/MjU0NjEyNjE0MDcz) to access course materials. For each lecture, we will post in the Google Classroom a package of materials. In each materials package will be written materials to remind you what we discussed in lecture and guide you in your self-learning. Plus, the package will include the live code that we do in class that day. 
+For this First Steps program, you will use [Google Classroom](https://classroom.google.com/u/1/c/MjU0NjEyNjE0MDcz) and [Github Classroom](https://classroom.github.com/classrooms/61113157-first-steps-feb-2021) to access course materials. For each lecture, we will post in the Google Classroom a package of materials for you hosted on Github Classroom. In each materials package will be written materials to remind you what we discussed in lecture and guide you in your self-learning. Plus, the package will include the live code that we do in class that day. 
 
 ### Course Communication
 
@@ -26,7 +26,7 @@ To communicate with your classmates and with staff, please use Google Classroom.
 
 By asking your question to the group, not only do you have more potential people who can answer, other students in class might need the same answers as you. You'll be impressed by how classroom communication between students can accelerate your learning and show you new ways to write code and solve technical issues. 
 
-If something is private, you can of course approach the staff privately.
+If something is private, you can of course approach the staff privately.  
 
 ### Live Session Behavior
 
