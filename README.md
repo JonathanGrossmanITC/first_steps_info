@@ -1,6 +1,6 @@
 # First Steps 
 
-Welcome to First Steps! In this 10-session preparatory program, you will take your first steps in the world of coding by learning the basics of HTML, CSS, and JavaScript. The program is packed with live lectures, lecture material and code, exercises, quizzes, and more. By the end of this program, you will be able to build a nice personal web portfolio using HTML, CSS and JavaScript.  
+Welcome to First Steps! In this 10-session preparatory program, you will take your first steps in the world of coding by learning the basics of HTML, CSS, and JavaScript. This course is a live, interactive class held online using the Zoom video platform. We provide you with live lectures, instructions on how to code, exercises, quizzes, and more. By the end of this program, you will be able to build a nice personal web portfolio using HTML, CSS and JavaScript.  
 
 In this file, you will learn about: 
 
@@ -12,13 +12,21 @@ In this file, you will learn about:
 
 ### Course Intro
 
-This First Steps program is designed to prepare you for [ITC's fullstack web development program](https://www.itc.tech) where you can enter Israel's hi-tech industry. In this program, you prepare by learning the basics of frontend development. In the fullstack program, you will level up your skills by diving into more advanced frontend topics and learning about backend web development, like building servers, managing databases, and deploying your fullstack web applications live on the web. Those who are planning to apply to [ITC's fullstack web development program](https://www.itc.tech) will showcase the portfolio you build from this course in a short technical interview as part of the fullstack admissions process. 
+We designed this First Steps program to prepare you for [ITC's fullstack web development program](https://www.itc.tech) where you can enter Israel's hi-tech industry. In this First Steps program, you will prepare by learning the basics of frontend development. If you continue to the fullstack program, you will level up your skills by diving into more advanced frontend topics and learning about backend web development. The backend learning in the fullstack program includes building servers, managing databases, and deploying your fullstack web applications live on the web. Those who are planning to apply to [ITC's fullstack web development program](https://www.itc.tech) will showcase the portfolio you build from this course in a short technical interview as part of the fullstack admissions process. 
 
 [ITC's fullstack web development program](https://www.itc.tech) is three months of classroom work following by a two-month internship at a hi-tech company in Israel. To help prepare you for industry, in the fullstack program you also will learn how to use Git and Github, develop your soft skills, prepare for technical and non-technical interviews, compete in a hackathon, and more! 
 
+### Zoom Class
+
+Live classes are held over Zoom. If you haven't used Zoom, please create a free Zoom account and practice using it. Please know how to share your screen, mute and unmute your microphone, turn your camera on, and use the chat. Don't worry, it's easy!  
+
+We will provide you with Zoom links for each lecture.
+
 ### Course Materials
 
-For this First Steps program, you will use [Google Classroom](https://classroom.google.com/u/1/c/MjU0NjEyNjE0MDcz) and [Github Classroom](https://classroom.github.com/classrooms/61113157-first-steps-feb-2021) to access course materials. For each lecture, we will post in the Google Classroom a package of materials for you hosted on Github Classroom. In each materials package will be written materials to remind you what we discussed in lecture and guide you in your self-learning. Plus, the package will include the live code that we do in class that day. 
+For this First Steps program, you will use [Google Classroom](https://classroom.google.com/u/1/c/MjU0NjEyNjE0MDcz) and [Github Classroom](https://classroom.github.com/classrooms/61113157-first-steps-feb-2021) to access course materials. We will post in the Google Classroom course materials for you that are hosted on Github Classroom. This material is here to guide you in your self-learning process after the live lessons.   
+
+If you haven't already, please create a [Github Account](https://github.com/). It's the most popular code versioning and sharing platform for developers. In this course we will use it mainly for sharing materials with you. If you attend the fullstack program, you will learn how to work with Github as a developer.
 
 ### Course Communication
 
@@ -34,9 +42,9 @@ To maximize the course's potential, we respectfully request a few things from yo
 
 Second, please be patient with your questions during the live sessions. To help keep a good rhythm and pace, we will reserve specific times during the live sessions for questions rather than take them as they come. 
 
-Third, if participating by video, please keep your camera on and your mic muted unless you're talking to the class. We ask you to have your camera on because the classroom experience is much better when we can see each other. We ask you to mute your mic to minimize distractions.  
+Third, please keep your camera on and your mic muted unless you're talking to the class. We ask you to have your camera on because the classroom experience is much better when we can see each other. We ask you to mute your mic to minimize distractions.  
 
-Fourth, take an active role in the live sessions and Google Classroom Discussions. We recommend you download the Google Classroom App. Class communication is important to us for several reasons. In web development, most often there's not a single right approach or solution to a technical Rather, multiple solutions exist, each with different pros and cons. Moreover, oftentimes you'll get stuck on something and need some guidance. By having an active classroom discussion, you can learn from your classmates.
+Fourth, take an active role in the live sessions and Google Classroom discussions. We recommend you download the Google Classroom App. Class communication is important to us for several reasons. In web development, most often there's not a single right approach or solution to a technical. Rather, multiple solutions exist, each with different pros and cons. Moreover, oftentimes you'll get stuck on something and need some guidance. By having an active classroom discussion, you can learn from your classmates.
 
 ### Have Fun
 
@@ -112,13 +120,3 @@ Hour 1: QUIZ: JavaScript
 Hour 2: Overview of ITC Fullstack Program and JS Online Resources  
 Hour 3: Live Coding Challenge  
 
-Extra:  
-ES6 Built-in methods deep dive  
-Promises deep dive
-Conditional rendering examples with alerts and loaders
-Validate form entries in JS
-Media queries  
-HTML and CSS Animations  
-HTML and CSS Google Maps Example  
-What is Bootstrap  
-What is Font Awesome  
