@@ -12,7 +12,11 @@ In this file, you will learn about:
 
 ### Course Intro
 
-We designed this First Steps program to prepare you for [ITC's fullstack web development program](https://www.itc.tech) where you can enter Israel's hi-tech industry. In this First Steps program, you will prepare by learning the basics of frontend development. If you continue to the fullstack program, you will level up your skills by diving into more advanced frontend topics and learning about backend web development. The backend learning in the fullstack program includes building servers, managing databases, and deploying your fullstack web applications live on the web. Those who are planning to apply to [ITC's fullstack web development program](https://www.itc.tech) will showcase the portfolio you build from this course in a short technical interview as part of the fullstack admissions process. 
+We designed this First Steps program to prepare you for [ITC's fullstack web development program](https://www.itc.tech) where you can enter Israel's hi-tech industry. 
+
+In this First Steps program, you will prepare by learning the basics of frontend development. If you continue to the fullstack program, you will level up your skills by diving into more advanced frontend topics and learning about backend web development. The backend learning in the fullstack program includes building servers, managing databases, and deploying your fullstack web applications live on the web. 
+
+Those who are planning to apply to [ITC's fullstack web development program](https://www.itc.tech) will showcase the portfolio you build from this course in a short technical interview as part of the fullstack admissions process. 
 
 [ITC's fullstack web development program](https://www.itc.tech) is three months of classroom work following by a two-month internship at a hi-tech company in Israel. To help prepare you for industry, in the fullstack program you also will learn how to use Git and Github, develop your soft skills, prepare for technical and non-technical interviews, compete in a hackathon, and more! 
 
