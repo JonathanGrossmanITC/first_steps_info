@@ -1,6 +1,8 @@
 # First Steps 
 
-Welcome to First Steps! In this 10-session preparatory program, you will take your first steps in the world of coding by learning the basics of HTML, CSS, and JavaScript. This course is a live, interactive class held online using the Zoom video platform. We provide you with live lectures, instructions on how to code, exercises, quizzes, and more. By the end of this program, you will be able to build a nice personal web portfolio using HTML, CSS and JavaScript.  
+Welcome to First Steps! In this 10-session preparatory program, you will take your first steps in the world of coding by learning the basics of HTML, CSS, and JavaScript. This course is a live, interactive class held online using the Zoom video platform. We provide you with live lectures, instructions on how to code, exercises, quizzes, and more. 
+
+The First Steps course is designed for complete beginners who wish to get a taste of the coding world and for those who already applied to [ITC's fullstack web development program](https://www.itc.tech). By the end of this program, you will be able to build a nice personal web portfolio using HTML, CSS and JavaScript.  
 
 In this file, you will learn about: 
 
