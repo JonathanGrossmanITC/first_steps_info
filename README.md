@@ -96,7 +96,7 @@ Hour 1: Position and Flexbox
 Hour 2: Grid and Forms  
 Hour 3: HTML / CSS Live Coding  
 
-5. JavaScript (ES6)  
+5. JavaScript Intro  
 Hour 1: QUIZ: HTML and CSS  
 Hour 2: Intro to Frontend JavaScript  
 Hour 3: Variables and Data Types  
@@ -106,7 +106,7 @@ Hour 1: What is the DOM
 Hour 2: JavaScript's Built-in Functions  
 Hour 3: Live Coding  
 
-7. JavaScript  
+7. JavaScript Logic  
 Hour 1: Loops and Iterable Data Types  
 Hour 2: Conditionals, Operators, and Expressions  
 Hour 3: Live Coding  
