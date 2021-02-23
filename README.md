@@ -36,7 +36,7 @@ If you haven't already, please create a [Github Account](https://github.com/). I
 
 ### Course Communication
 
-To communicate with your classmates and with staff, please use Google Classroom. While the staff will try its best to provide a timely response, we oftentimes can't provide real-time communication. Therefore, if you have a question about course materials, schedule, a technical issue or anything, asking it to the Google Classroom instead of messaging staff directly can result in a faster response because oftentimes one or more of your fellow classmates knows the answer and can respond quicker than staff. 
+To communicate with your classmates and with staff, please use Slack. While the staff will try its best to provide a timely response, we oftentimes can't provide real-time communication. Therefore, if you have a question about course materials, schedule, a technical issue or anything, asking it to the Slack Classroom instead of messaging staff directly can result in a faster response because oftentimes one or more of your fellow classmates knows the answer and can respond quicker than staff. 
 
 By asking your question to the group, not only do you have more potential people who can answer, other students in class might need the same answers as you. You'll be impressed by how classroom communication between students can accelerate your learning and show you new ways to write code and solve technical issues. 
 
@@ -50,7 +50,7 @@ Second, please be patient with your questions during the live sessions. To help 
 
 Third, please keep your camera on and your mic muted unless you're talking to the class. We ask you to have your camera on because the classroom experience is much better when we can see each other. We ask you to mute your mic to minimize distractions.  
 
-Fourth, take an active role in the live sessions and Google Classroom discussions. We recommend you download the Google Classroom App. Class communication is important to us for several reasons. In web development, most often there's not a single right approach or solution to a technical. Rather, multiple solutions exist, each with different pros and cons. Moreover, oftentimes you'll get stuck on something and need some guidance. By having an active classroom discussion, you can learn from your classmates.
+Fourth, take an active role in the live sessions and Slack Classroom discussions. We recommend you download the Google Classroom and Slack Apps. Class communication is important to us for several reasons. In web development, most often there's not a single right approach or solution to a technical. Rather, multiple solutions exist, each with different pros and cons. Moreover, oftentimes you'll get stuck on something and need some guidance. By having an active classroom discussion, you can learn from your classmates.
 
 ### Have Fun
 
@@ -59,19 +59,7 @@ We insist that you have fun and enjoy the process! Learning to code can be extre
 
 ## [First Steps Schedule](#first-steps-schedule)
 
-The First Steps Program is ten live sessions consisting of lecture, live coding, exploring online resources, and open discussion. Each session is 3.5 hours with several breaks throughout. Here is the schedule for your program:
-
-- Feb: 14, 2021  
-- Feb: 15, 2021  
-- Feb: 18, 2021  
-- Feb: 21, 2021  
-- Feb: 22, 2021  
-
-- March: 1, 2021  
-- March: 4, 2021  
-- March: 7, 2021  
-- March: 8, 2021  
-- March: 11, 2021  
+The First Steps Program is ten live sessions consisting of lecture, live coding, exploring online resources, and open discussion. Each session is 3.5 hours with several breaks throughout. Please check the Google Classroom for your course schedule.
 
 
 ## [First Steps Syllabus](#first-steps-syllabus)
